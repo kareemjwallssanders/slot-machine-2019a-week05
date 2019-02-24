@@ -15,6 +15,10 @@ Build a simple slot machine with minimum 5 items per reel and 3 reels - user sho
   - (1 to 5 no 3) I completed the challenge
   - (1 to 5 no 3) I feel good about my code
   - Anything specific on which you want feedback!
+  
+  I completed the challenge: 4
+I feel good about my code: 4
+I'm unsure if the finstion on the slot machine are running correctly, and feel like I possible left out possible output features for users...
 
 Example:
 ```
